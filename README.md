@@ -13,3 +13,5 @@ We have used Glove Embedding of 100 Dimensions.<br><br><img src="https://i.ibb.c
 <b> Layers used by this model </b><br><br><img src="https://i.ibb.co/6vmbC5g/Screenshot-from-2020-09-24-13-52-23.png"/>
 <br><br><hr><br>
 <b> Backward Pass or Back Propagation </b><br><br><img src="https://i.ibb.co/bRygXK8/Screenshot-from-2020-09-24-13-54-39.png"/>
+<br><br><hr><br>
+<b> Training Visualization </b><br><br><img src="https://ibb.co/Fwfn9fB"/>
