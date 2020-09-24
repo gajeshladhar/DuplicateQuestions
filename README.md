@@ -11,3 +11,5 @@ Q2. How to Solve Vanishing Gradient Problem.
 We have used Glove Embedding of 100 Dimensions.<br><br><img src="https://i.ibb.co/km11Ppc/Screenshot-from-2020-09-24-13-49-00.png"/>
 <br><br><hr><br>
 <b> Layers used by this model </b><br><br><img src="https://i.ibb.co/6vmbC5g/Screenshot-from-2020-09-24-13-52-23.png"/>
+<br><br><hr><br>
+<b> Backward Pass or Back Propagation </b><br><br><img src="https://i.ibb.co/bRygXK8/Screenshot-from-2020-09-24-13-54-39.png"/>
